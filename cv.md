@@ -15,3 +15,11 @@ GitHub: [github.com/nkrivitsky](https://github.com/nkrivitsky)
 - Recommended herself as very attentive to details, has strong issues investigation skills, and shows creative approach to work  
 - Some experience in Automation and Performance Testing  
 
+## Skills
+- HTML,CSS,JS
+- C#, Java, Python
+- Microsoft Visual Studio, IntelliJ IDEA IDE, PyCharm
+- TestNG, Selenium, Xamarin Forms, [Aquality Selenium](https://github.com/aquality-automation/aquality-selenium-java/)
+- SQL
+- Git
+
