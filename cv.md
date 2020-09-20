@@ -23,3 +23,13 @@ GitHub: [github.com/nkrivitsky](https://github.com/nkrivitsky)
 - SQL
 - Git
 
+## Experience
+- 2012-2020 - SQA Engineer in Itransition Group Ltd
+
+## Education
+- 2010 - 2015 Belarusian National Technical University
+- 2015 - 2016 Master of Engineering Science Specialization Information Technology
+
+## Languages
+- English - B1 
+- Polish - A2
