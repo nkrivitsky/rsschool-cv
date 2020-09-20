@@ -1,8 +1,8 @@
 # Krivitsky Nikita
 
 ## Contact me
-- Phohe: +375 29 6716037  
-- Email: nikdemoth1@gmail.com  
+- Phohe: [+375 29 6716037](tel:+375296716037)  
+- Email: [nikdemoth1@gmail.com](mailto:nikdemoth1@gmail.com)  
 - Skype: [n.krivitsky](skype:n.krivitsky?add)  
 - LinkedIn: [linkedin/nikita-krivitsky](www.linkedin.com/in/nikita-krivitsky)  
 - GitHub: [github.com/nkrivitsky](https://github.com/nkrivitsky)  
